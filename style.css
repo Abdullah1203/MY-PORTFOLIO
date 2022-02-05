@@ -1,0 +1,90 @@
+/*
+font-family: 'Open Sans', sans-serif;
+font-family: 'Space Grotesk', sans-serif;
+*/
+
+body{
+    font-family: 'Open Sans', sans-serif; 
+}
+.fixed-top{
+    background-color: white;
+    opacity: 95%;
+}
+.nav-link{
+    font-family: 'Space Grotesk', sans-serif;
+    color: black; /* blue colors for links too */
+    font-weight: 500;
+    font-size: 18px;
+  }
+
+header img{
+    width: 15% ;
+}
+h1{
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 600;
+    font-size: 50px;
+    padding-bottom: 10px;
+}
+h2{
+    font-size: 20px;
+    margin-bottom: 25px;
+    color: rgb(59, 59, 59);
+    padding-bottom: 20px;
+}
+p{
+    font-size: 18px;
+}
+#top-skils{
+    font-size: 24px;
+    color: rgb(29, 29, 29);
+}
+.one{
+    padding-top: 15% ;
+}
+.one img{
+    width: 50%;
+}
+.three{
+    padding: 0 20% 0 0;
+}
+.three p{
+    font-weight: 600;
+    margin-top:1em;
+    margin-bottom: 0;
+}
+iframe{
+    width: 100%;
+}
+.card{
+    border-bottom: white;
+}
+
+.card-img-top{
+    width: 100%;
+}
+span.blue{
+    color: rgb(46, 46, 212);
+}
+.three.btn{
+    background-color: rgb(46, 46, 212);
+}
+
+hr{
+    margin: 3em 0em;
+    border: 0px solid rgb(0, 0, 0);
+    opacity: 100%;
+}
+.funny{
+    width: 60%;
+    justify-content: center;
+}
+.icons i{
+    color: rgb(32, 32, 32);
+    font-size: 2rem;
+    padding-top:1em;
+    width: 10%;
+}
+.dropdown-menu{
+    font-family: 'Space Grotesk', sans-serif;
+}
